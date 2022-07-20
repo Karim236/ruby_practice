@@ -14,3 +14,4 @@ yamaha = Moto::Moto.new("Yamaha", "Y5", "Yellow", 100, true)
 
 eveco = Truck::Truck.new("Eveco", "E5", "Orange", 80, true)
 scania = Truck::Truck.new("Scania", "Sc5", "Yellow", 100, true)
+volvo = Truck::Truck.new("Volvo", "V1", "Brown", 120, false)
