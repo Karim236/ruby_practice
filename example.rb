@@ -11,6 +11,7 @@ kia = Car::Car.new("Kia", "K5", "White", 200, true)
 
 ducati = Moto::Moto.new("Ducati", "M1", "Blue", 200, true)
 yamaha = Moto::Moto.new("Yamaha", "Y5", "Yellow", 100, true)
+honda = Moto::Moto.new("Honda", "H1", "Yellow", 150, false)
 
 eveco = Truck::Truck.new("Eveco", "E5", "Orange", 80, true)
 scania = Truck::Truck.new("Scania", "Sc5", "Yellow", 100, true)
